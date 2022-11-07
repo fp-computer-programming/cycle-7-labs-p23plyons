@@ -1,4 +1,4 @@
-# Author: PCL 10/28/22
+# Author: PCL 11/4/22
 
 #creating list with 2 names of people in my row and printing it
 my_row = ["joe","richie"]
